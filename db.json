@@ -1,0 +1,112 @@
+,    
+    "iglesia":[
+        {
+            "Imagen":"https://i.pinimg.com/564x/0e/3f/26/0e3f26f8cdc542516f00eafbdf4bc7de.jpg",
+            "Titulo":"CRISTO REDENTOR 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:20$",
+            "Descripcion":"¡Siente la majestuosidad del Cristo Redentor! Con sus brazos abiertos sobre Río de Janeiro, este ícono te invita a la paz y la reflexión. ¡Descubre su grandeza ahora!"
+        },
+        {
+            "Imagen":"https://i.pinimg.com/564x/86/85/5a/86855a72dd8a54109569a9772b435485.jpg",
+            "Titulo":"IGLESIA SAN ANDRES 4.0⭐⭐⭐⭐",
+            "Precio":"TOUR:30$",
+            "Descripcion":"Esta joya arquitectónica te cautivará con sus vibrantes fachadas adornadas con relieves y colores vivos. ¡Sumérgete en la rica historia y la belleza única de este lugar sagrado!"
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/d9/8a/2e/d98a2e1c772ec5e290d7b00754a8c721.jpg",
+            "Titulo":"VIRGEN DEL PANECILLO 4.6⭐⭐⭐⭐",
+            "Precio":"TOUR:15$ ",
+            "Descripcion":"Situada en Quito, Ecuador, esta impresionante estatua de la Virgen María te recibe con sus brazos abiertos en lo alto de la colina del Panecillo."
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/2c/5e/d7/2c5ed73cd98ab3f6ebda880788bd5df6.jpg",
+            "Titulo":"PARROQUIA DE SAN MIGUEL 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:20$",
+            "Descripcion":"¡Sumérgete en la historia y la espiritualidad! Situada en San Miguel de Allende, México,  te cautivará con su arquitectura barroca y su encanto pintoresco."
+        }
+        ,
+        {
+            "Imagen":"https://queverenelmundo.com/wp-content/uploads/Iglesia-Sagrado-Corazon-Paris-1.jpg",
+            "Titulo":"BASILICA DEL SAGRADO CORAZON DE JESUS 5.0⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:25$",
+            "Descripcion":"Ubicada en Montmartre, París, esta majestuosa iglesia te invita a maravillarte con su arquitectura románica y su imponente cúpula."
+        }
+        ,
+        {
+            "Imagen":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/25/ae/5c/cathedral-lima-peru.jpg",
+            "Titulo":"CATEDRAL DE LIMA 4.7⭐⭐⭐⭐",
+            "Precio":"TOUR:10$",
+            "Descripcion":"En el corazón del centro histórico de la capital peruana, esta joya arquitectónica te sorprenderá con su imponente presencia y su rica historia."
+        }
+        ,
+        {
+            "Imagen":"https://wp.es.aleteia.org/wp-content/uploads/sites/7/2016/09/web-la-ermita-cali-valle-del-cauca_jorge-gutierrez-cc.jpg",
+            "Titulo":"CATEDRAL DE SAN BASILIO 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:23$",
+            "Descripcion":"¡Embárcate en un viaje hacia la maravilla arquitectónica ! Con sus cúpulas de colores brillantes y su diseño único, esta icónica iglesia ortodoxa te dejará sin aliento."
+        }
+        ,
+        {
+            "Imagen":"https://www.aciprensa.com/imagespp/turismo-religioso-27092023.jpg",
+            "Titulo":"BASILICA DE GUADALUPE 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:28$",
+            "Descripcion":"¡Explora la devoción y la historia!Esta basílica te recibe con su imponente presencia y significado espiritual. Maravíllate con la icónica imagen de la Virgen de Guadalupe."
+        }
+    ], "hotel":[
+        {
+            "Imagen":"https://i.pinimg.com/564x/05/d3/f9/05d3f9d104a26bc832b739bca2c6a13d.jpg",
+            "Titulo":"SPORT HOTEL HERMITAGE 4.6⭐⭐⭐⭐⭐",
+            "Precio":"NOCHE:80$",
+            "Descripcion":"Lujo alpino en su máxima expresión. ¡Descubre la belleza de los Pirineos con comodidades de primer nivel y acceso directo a las pistas de esquí!"
+        },
+        {
+            "Imagen":"https://i.pinimg.com/564x/9c/9b/4f/9c9b4f8f344c3606702d7e64926ef5f2.jpg",
+            "Titulo":"CAMPANARIO VILLAGGIO RESORT 4.6⭐⭐⭐⭐⭐",
+            "Precio":"NOCHE:100$",
+            "Descripcion":"Un oasis de lujo en Florianópolis. Disfruta de playas paradisíacas y servicios de primer nivel en este exclusivo resort."
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/736x/66/81/cf/6681cf4a2685f7ef69186b892b1cad45.jpg",
+            "Titulo":"SANDALS GRENADA 4.6⭐⭐⭐⭐",
+            "Precio":"NOCHE:90$",
+            "Descripcion":"Disfruta de la serenidad caribeña en nuestras playas de arena blanca, sumérgete en aguas cristalinas y relájate en un entorno de lujo sin igual."
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/af/2c/dd/af2cdddda2ba273b91e765d150ab564a.jpg",
+            "Titulo":"KEEMALA 4.6⭐⭐⭐⭐",
+            "Precio":"NOCHE:100$",
+            "Descripcion":"Descubre un refugio único en la exuberante selva tropical de Phuket, donde se combina con la autenticidad cultural y la belleza natural. Cada villa es una obra maestra arquitectónica inspirada en las antiguas civilizaciones."
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/cd/96/a6/cd96a6f77d58dbe9d9e810d4f6f821ab.jpg",
+            "Titulo":"FOLK POOL GARDENS 4.4⭐⭐⭐⭐",
+            "Precio":"NOCHE:80$",
+            "Descripcion":" Platos ligeros y cócteles en un apacible restaurante arbolado con tumbonas y una piscina con bar."
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/ef/c6/62/efc662ad7d783e588fcf5f8a2f28693f.jpg",
+            "Titulo":"STELLA ISLAND RESORT 4.8⭐⭐⭐⭐⭐",
+            "Precio":"NOCHE:150$",
+            "Descripcion":"Sumérgete en la belleza de las islas griegas en este lujoso resort, donde el lujo y la elegancia se encuentran con la serenidad tropical. ¡Ven y descubre el paraíso en la tierra!"
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/21/29/56/212956f1f484fa0615eafa6d099b2e35.jpg",
+            "Titulo":"SONEVA FUSHI 5.0⭐⭐⭐⭐⭐",
+            "Precio":"NOCHE:93$",
+            "Descripcion":"Donde el lujo se encuentra con la belleza natural. Sumérgete en la serenidad de las Maldivas en este exclusivo resort, donde el encanto rústico se combina con el confort de clase mundial."
+        }
+        ,
+        {
+            "Imagen":"https://cdn.forbes.com.mx/2020/07/hoteles-Grand-Velas-Resorts-e1596047698604.jpg",
+            "Titulo":"GRAND VELAS LOS CABOS 4.8⭐⭐⭐⭐⭐",
+            "Precio":"NOCHE:59$",
+            "Descripcion":"Descubre un paraíso frente al mar en la impresionante costa de Baja California Sur. Con suites de lujo con vista al océano, gastronomía de clase mundial."
+        }
+    ]
