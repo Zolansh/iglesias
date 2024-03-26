@@ -1,4 +1,4 @@
-,    
+{    
     "iglesia":[
         {
             "Imagen":"https://i.pinimg.com/564x/0e/3f/26/0e3f26f8cdc542516f00eafbdf4bc7de.jpg",
@@ -109,4 +109,4 @@
             "Precio":"NOCHE:59$",
             "Descripcion":"Descubre un paraíso frente al mar en la impresionante costa de Baja California Sur. Con suites de lujo con vista al océano, gastronomía de clase mundial."
         }
-    ]
+    ]}
